@@ -339,3 +339,41 @@ p.sunnary-text{
 .cta-section {
     padding: 120px 0;
 }
+
+
+footer.footer-section {
+    padding-top: 120px;
+    padding-bottom: 30px;
+    background: #001931;
+}
+
+.footer-top-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 80px;
+}
+
+.footer-top-content p {
+    margin-top: 0;
+    font-size: 20px;
+    color: #ffffff;
+    font-weight: 500;
+}
+
+.footer-social-icon-block
+ {
+    display: flex;
+    gap: 16px;
+}
+
+p.copyright-text {
+    margin: 0;
+    text-align: center;
+    color: #FAFAFA;
+}
+
+.footer-bottom-block {
+    padding-top: 40px;
+    border-top: 1px solid #E5E7EB;
+}
